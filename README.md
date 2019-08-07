@@ -1,0 +1,3 @@
+# GrimDevotion
+
+GrimDevotion is a project I started not long after the Devotion system was added to Grim Dawn. I wanted a way to not only plan my Devotion out, but more easily find bonuses I was interested in, and also see the various potential paths I could take toward tier 3 constellations, taking into account each constellation's return-on-investment. I built an app in Google Sheets, but never scripted the import function needed to keep the data updated. This time around, I'll take care of that, but I also plan to make it much more presentable. If it's at all possible to present this in-game—as an overlay, perhaps—I want to do it.
